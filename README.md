@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for a cancer detection model using Machine Learning. Customize it based on your project's details, including information about the dataset, model architecture, training process, and results.
-
----
-
 # Cancer Detection Using Machine Learning
 
 ## Overview
